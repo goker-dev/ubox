@@ -1,0 +1,13 @@
+ubox is an overlay image viewer (It's a kind of lightbox) jQuery plug-in.
+I developed it to use on my Uygulama project. 
+Mostly lightbox scripts can't handle smart phone/iphone's small screen sizes but this can. 
+I've tested it on my iphone it works.
+
+I've only tested it on 
+ * Google Chrome (11.0.696.65), 
+ * Chromium (11.0.696.71 (86024) Ubuntu 11.04), 
+ * Mozilla Firefox (4.0.1), 
+ * Opera (11.10 (2092)) 
+and it works enough for me for now!
+
+goker.cebeci, the developer
